@@ -4,11 +4,11 @@
 - 💻 Gosto bastante de programação e tecnologia. Entusiasta em ciência de dados e estatística.
 - I really like programming and technology. Enthusiast in data science and statistics.
 
-- 🧢 Buscando colaborar com projetos em C#, Python, R, Java
-- Seeking to collaborate with projects in C#, Python, R, Java
+- 🧢 Buscando colaborar com projetos em Java, Spring Boot, REST, RESTful, Angular, C#, ASP.NET Core, WPF
+- Seeking to collaborate with projects in Java, Spring Boot, REST, RESTful, Angular, C#, ASP.NET Core, WPF
                       
-- 😊 Posso ajudá-lo com C#, Python, R, Java, Estatística
-- I can help you with C#, Python, R, Java, Statistics
+- 😊 Posso ajudá-lo com Java, Spring Boot, REST, RESTful, Angular, C#, ASP.NET Core, WPF, Python, Estatística
+- I can help you with Java, Spring Boot, REST, RESTful, Angular, C#, ASP.NET Core, WPF, Python, Statistics
  
 - 💬 Resumo básico do básico: Gosto de jogos, atividades físicas, AZUL, chocolate, sushi, escrever e PROGRAMAR 
 - Basic summary of the basics: I like games, physical activities, BLUE, chocolate, sushi, writing and PROGRAMMING
