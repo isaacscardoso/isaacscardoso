@@ -1,8 +1,16 @@
-# Aloha 🙋🏾‍♂️🙂
-[![Github Badge](https://img.icons8.com/bubbles/50/000000/github.png)](https://github.com/isaacscardoso)
-[![Steam Badge](https://img.icons8.com/bubbles/50/000000/steam.png)](https://steamcommunity.com/profiles/76561198147567190/)
-[![Facebook Badge](https://img.icons8.com/bubbles/50/000000/facebook-circled.png)](https://www.facebook.com/isaacscardoso/)
-[![Instagram Badge](https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png)](https://www.instagram.com/isaacscardoso/)
+<div>
+  <h1 align="center">
+    A L O H A ! 🙋🏾‍♂️ <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
+    <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px">
+  </h1>
+</div>
+
+<p align="center">
+  <a href="https://github.com/isaacscardoso/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://steamcommunity.com/profiles/76561198147567190/"><img src="https://img.icons8.com/bubbles/50/000000/steam.png" alt="Steam"></a>
+  <a href="https://www.facebook.com/isaacscardoso/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-circled.png" alt="Facebook"></a>
+  <a href="https://www.instagram.com/isaacscardoso"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png" alt="Instagram"></a>
+</p>
 
 - Eu sou Isaac, e minha cor favorita é azul.💙<br>- I’m Isaac, and my favorite color is blue.
 
@@ -10,7 +18,9 @@
 
 - Eu tenho bastante apreço por IA e suas ramificações. Pretendo ser bastante eficaz e produtivo nas áreas de DS e ML. 👨🏾‍💻🧮📊<br>- I have a lot of appreciation for AI and its ramifications. I intend to be quite effective and productive in the areas of DS and ML.
 
-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacscardoso&theme=tokyonight&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacscardoso&theme=tokyonight&layout=compact" alt="RepositoryStats"/>
+</p>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,12 +34,17 @@
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![VueJS Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ---
-![Contributions Snake GIF](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="SnakeGameGIF"/>
+</p>
 
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacscardoso&show_icons=true&theme=tokyonight)
-
+[![Github Badge](https://img.icons8.com/bubbles/50/000000/github.png)](https://github.com/isaacscardoso)
+[![Steam Badge](https://img.icons8.com/bubbles/50/000000/steam.png)](https://steamcommunity.com/profiles/76561198147567190/)
+[![Facebook Badge](https://img.icons8.com/bubbles/50/000000/facebook-circled.png)](https://www.facebook.com/isaacscardoso/)
+[![Instagram Badge](https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png)](https://www.instagram.com/isaacscardoso/)
 **isaacscardoso/isaacscardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
