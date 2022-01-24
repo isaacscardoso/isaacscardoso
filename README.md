@@ -1,8 +1,8 @@
 # Aloha 🙋🏾‍♂️🙂
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/isaacscardoso/)](https://www.instagram.com/isaacscardoso/)
-[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198147567190/)](https://steamcommunity.com/profiles/76561198147567190/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/isaacscardoso/)](https://www.facebook.com/isaacscardoso/)
-
+[![Github Badge](https://img.icons8.com/bubbles/50/000000/github.png)](https://github.com/isaacscardoso)
+[![Steam Badge](https://img.icons8.com/bubbles/50/000000/steam.png)](https://steamcommunity.com/profiles/76561198147567190/)
+[![Facebook Badge](https://img.icons8.com/bubbles/50/000000/facebook-circled.png)](https://www.facebook.com/isaacscardoso/)
+[![Instagram Badge](https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png)](https://www.instagram.com/isaacscardoso/)
 
 - Eu sou Isaac, e minha cor favorita é azul.💙<br>- I’m Isaac, and my favorite color is blue.
 
@@ -23,8 +23,9 @@
 ![Laravel Badge](https://img.shields.io/badge/laravel-DC143C?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![VueJS Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
+---
 ![Contributions Snake GIF](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacscardoso&show_icons=true&theme=tokyonight)
