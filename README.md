@@ -1,5 +1,5 @@
 # Aloha 🙋🏾‍♂️🙂
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=_blank&link=https://www.instagram.com/isaacscardoso/)](https://www.instagram.com/isaacscardoso/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/isaacscardoso/)](https://www.instagram.com/isaacscardoso/)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198147567190/)](https://steamcommunity.com/profiles/76561198147567190/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/isaacscardoso/)](https://www.facebook.com/isaacscardoso/)
 
