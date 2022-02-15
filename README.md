@@ -6,9 +6,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/isaacscardoso/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <!-- <a href="https://steamcommunity.com/profiles/76561198147567190/"><img src="https://img.icons8.com/bubbles/50/000000/steam.png" alt="Steam"></a> -->
   <a href="https://www.facebook.com/isaacscardoso/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-circled.png" alt="Facebook"></a>
+  <a href="https://github.com/isaacscardoso/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.instagram.com/isaacscardoso"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png" alt="Instagram"></a>
 </p>
 
