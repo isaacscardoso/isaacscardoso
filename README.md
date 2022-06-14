@@ -14,15 +14,15 @@
 
 - Eu sou Isaac, e minha cor favorita é azul.💙<br>- I’m Isaac, and my favorite color is blue.
 
-- Eu imagino várias conquistas na área de desenvolvimento, algumas delas se baseiam em inteligência artificial e autômatos robóticos. 🦾🤖🦿🌐<br>- I imagine several achievements in the area of development, some of them are based on artificial intelligence and robotic automata.
-
-- Eu tenho bastante apreço por IA e suas ramificações. Pretendo ser bastante eficaz e produtivo nas áreas de DS e ML. 👨🏾‍💻🧮📊<br>- I have a lot of appreciation for AI and its ramifications. I intend to be quite effective and productive in the areas of DS and ML.
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacscardoso&theme=tokyonight&layout=compact" alt="RepositoryStats"/>
 </p>
 
 <!--
+- Eu imagino várias conquistas na área de desenvolvimento, algumas delas se baseiam em inteligência artificial e autômatos robóticos. 🦾🤖🦿🌐<br>- I imagine several achievements in the area of development, some of them are based on artificial intelligence and robotic automata.
+
+- Eu tenho bastante apreço por IA e suas ramificações. Pretendo ser bastante eficaz e produtivo nas áreas de DS e ML. 👨🏾‍💻🧮📊<br>- I have a lot of appreciation for AI and its ramifications. I intend to be quite effective and productive in the areas of DS and ML.
+
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
