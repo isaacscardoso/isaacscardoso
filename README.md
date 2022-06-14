@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">
     A L O H A ! 🙋🏾‍♂️ <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
-    <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px">
+    <!-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"> -->
   </h1>
 </div>
 
