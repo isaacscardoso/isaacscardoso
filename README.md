@@ -14,9 +14,6 @@
 
 - Eu sou Isaac, e minha cor favorita é azul.💙<br>- I’m Isaac, and my favorite color is blue.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacscardoso&theme=tokyonight&layout=compact" alt="RepositoryStats"/>
-</p>
 
 <!--
 - Eu imagino várias conquistas na área de desenvolvimento, algumas delas se baseiam em inteligência artificial e autômatos robóticos. 🦾🤖🦿🌐<br>- I imagine several achievements in the area of development, some of them are based on artificial intelligence and robotic automata.
