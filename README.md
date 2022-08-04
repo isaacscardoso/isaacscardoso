@@ -31,12 +31,12 @@
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   
-  <a href="http://isaacscardoso.dev/"><img align="right" alt="Isaac Cardoso" height="120" src="https://avatars.githubusercontent.com/u/88048363?v=4"></a>
+  <a href="#"><img align="right" alt="Isaac Cardoso" height="120" src="https://avatars.githubusercontent.com/u/88048363?v=4"></a>
 </div>
   
   ##
   
-  ![Snake animation](https://github.com/toshiossada/toshiossada/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://user-images.githubusercontent.com/88048363/182762199-2288a5b2-74dc-4335-a832-0cbead537797.svg)
 
 ```dart
 class Developer {
