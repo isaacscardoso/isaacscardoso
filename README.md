@@ -13,7 +13,9 @@
   <a href="https://www.instagram.com/isaacscardoso"><img src="https://img.icons8.com/bubbles/70/000000/instagram-new--v2.png" alt="Instagram"></a>
 </p>
 
-## I’m Isaac, and my favorite color is blue 💙.
+<h2 align="center">
+   I’m Isaac, and my favorite color is blue 💙.
+</h2>
 
 <div align="center">
   <a href="https://github.com/isaacscardoso/isaacscardoso"/>
