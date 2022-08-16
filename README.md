@@ -60,8 +60,8 @@ class Developer {
     ];
     code = {
         'mobile'   : ['Flutter'],
-        'frontend' : ['Flutter', 'HTML', 'CSS', 'JavaScript', 'TypeScript'],
-        'backend'  : ['PHP'],
+        'frontend' : ['Flutter', 'HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
+        'backend'  : ['PHP', 'Laravel'],
         'database' : ['MySQL'],
         'tools'    : ['Git', 'GitHub', 'BitBucket', 'Excel', 'Notion'],
         'misc'     : ['Firebase', 'TDD', 'Scrum', 'Solid', 'Clean Architecture']
