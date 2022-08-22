@@ -32,10 +32,10 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
-  <a href="https://g.dev/isaacscardoso"><img align="right" alt="Isaac Cardoso" height="120" src="https://avatars.githubusercontent.com/u/88048363?v=4"></a>
+
+  <a href="https://g.dev/isaacscardoso"><img align="right" alt="Isaac Cardoso" height="120" src="https://user-images.githubusercontent.com/88048363/185818068-1a209ae3-09e0-4f65-a662-a73843c551a2.jpg"></a>
 </div>
-  
+
   ##
   
   ![Snake animation](https://user-images.githubusercontent.com/88048363/182762199-2288a5b2-74dc-4335-a832-0cbead537797.svg)
@@ -68,3 +68,4 @@ class Developer {
     };  
   }
 }
+```
