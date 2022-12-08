@@ -33,7 +33,7 @@
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 	
-  <a href="https://g.dev/isaacscardoso"><img align="right" alt="Isaac Cardoso" height="120" src="https://user-images.githubusercontent.com/88048363/206332775-5d2afc3b-bea0-4567-949d-fbd0a470eb1a.jpg"></a>
+  <a href="https://g.dev/isaacscardoso" target="_blank"><img align="right" alt="Isaac Cardoso" height="120" src="https://user-images.githubusercontent.com/88048363/206332775-5d2afc3b-bea0-4567-949d-fbd0a470eb1a.jpg"></a>
 </div>
 
   ##
