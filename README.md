@@ -1,22 +1,3 @@
-<div>
-  <h1 align="center">
-    A L O H A ! 🙋🏾‍♂️ <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
-    <!-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"> -->
-  </h1>
-</div>
-
-<p align="center">
-  <!-- <a href="https://steamcommunity.com/profiles/76561198147567190/"><img src="https://img.icons8.com/bubbles/50/000000/steam.png" alt="Steam"></a> -->
-  <a href="https://github.com/isaacscardoso/"><img src="https://img.icons8.com/bubbles/70/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.facebook.com/isaacscardoso/"><img src="https://img.icons8.com/bubbles/70/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/isaacscardoso/"><img src="https://img.icons8.com/bubbles/70/000000/facebook-circled.png" alt="Facebook"></a>
-  <a href="https://www.instagram.com/isaacscardoso"><img src="https://img.icons8.com/bubbles/70/000000/instagram-new--v2.png" alt="Instagram"></a>
-</p>
-
-<h2 align="center">
-   I’m Isaac, and my favorite color is blue 💙.
-</h2>
-
 <div align="center">
   <a href="https://github.com/isaacscardoso"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacscardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -36,9 +17,10 @@
   <a target="_blank" href="https://g.dev/isaacscardoso"><img align="right" alt="Isaac Cardoso" height="120" src="https://user-images.githubusercontent.com/88048363/206332775-5d2afc3b-bea0-4567-949d-fbd0a470eb1a.jpg"></a>
 </div>
 
-  ##
+##
   
-  ![Snake animation](https://user-images.githubusercontent.com/88048363/182762199-2288a5b2-74dc-4335-a832-0cbead537797.svg)
+<a href="https://www.linkedin.com/in/isaacscardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/isaacscardoso" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23252627?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 ```dart
 class Developer {
@@ -69,3 +51,5 @@ class Developer {
   }
 }
 ```
+
+![Snake animation](https://user-images.githubusercontent.com/88048363/182762199-2288a5b2-74dc-4335-a832-0cbead537797.svg)
