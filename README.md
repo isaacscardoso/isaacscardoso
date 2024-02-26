@@ -23,31 +23,39 @@
 <a href="https://github.com/isaacscardoso" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23252627?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ```dart
-class Developer {
-  late String username;
-  late String name;
-  late String email;
-  late List<String> social;
-  late Map<String, dynamic> code;
-  
-  Developer() {
-    username = 'isaacscardoso';
-    name     = 'Isaac Cardoso Silva';
-    email    = 'isaacscardosoblues@gmail.com';
-    social   = [
-	    'https://github.com/isaacscardoso',	
-	    'https://www.linkedin.com/in/isaacscardoso/',	
-	    'https://www.instagram.com/isaacscardoso/',
-	    'https://www.facebook.com/isaacscardoso/',
-    ];
-    code = {
-        'mobile'   : ['Flutter'],
-        'frontend' : ['Flutter', 'HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
-        'backend'  : ['PHP', 'Laravel'],
-        'database' : ['MySQL'],
-        'tools'    : ['Git', 'GitHub', 'BitBucket', 'Excel', 'Notion'],
-        'misc'     : ['Firebase', 'TDD', 'Scrum', 'Solid', 'Clean Architecture']
-    };  
+final class Developer {
+  final String username;
+  final String name;
+  final String email;
+  final List<Uri> social;
+  final Map<String, List<String>> code;
+
+  const Developer({
+    required this.username,
+    required this.name,
+    required this.email,
+    required this.social,
+    required this.code,
+  });
+
+  factory Developer.defaultDeveloper() {
+    return Developer(
+      username: 'isaacscardoso',
+      name: 'Isaac Cardoso Silva',
+      email: 'isaacscardosoblues@gmail.com',
+      social: [
+        Uri.parse('https://github.com/isaacscardoso'),
+        Uri.parse('https://www.linkedin.com/in/isaacscardoso/'),
+      ],
+      code: {
+        'mobile': ['Flutter'],
+        'frontend': ['Flutter', 'HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'Bootstrap'],
+        'backend': ['PHP', 'Laravel', 'Dart'],
+        'database': ['MySQL'],
+        'tools': ['Git', 'Bash', 'GPT', 'Gemini'],
+        'misc': ['Firebase', 'TDD', 'Scrum', 'Solid', 'Clean Architecture'],
+      },
+    );
   }
 }
 ```
