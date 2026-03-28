@@ -1,54 +1,40 @@
-<!-- Profile header -->
-<div align="center">
-  <h1>Ólá, eu sou o Isaac Cardoso! 👋</h1>
-  <p>Desenvolvedor de software apaixonado por criar aplicações escaláveis, construir back‑ends eficientes e explorar novas tecnologias.</p>
-
-  <!-- Badges de contato -->
-  <a href="mailto:isaacscardoso@protonmail.com">
-    <img src="https://img.shields.io/badge/-Contato-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/isaacscardoso">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-### 👨‍💻 Sobre mim
-
-- 🎯 Atualmente focado em desenvolver aplicações full stack e APIs robustas.
-- 📚 Sempre aprendendo: aprofundando em frameworks PHP e desenvolvimento mobile com Flutter.
-- 🤖 Explorando ferramentas de IA como o ChatGPT para aumentar a produtividade.
-- 💡 Entusiasta de código limpo, boas práticas e compartilhamento de conhecimento.
-
-### 🛠️ Tecnologias & Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/-Filament-E95793?style=flat&logoColor=white" alt="Filament">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat&logo=openai&logoColor=white" alt="ChatGPT/OpenAI">
+<!-- Animated Header using Capsule Render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9f40ff&height=200&section=header&text=Isaac%20Cardoso&fontSize=40&fontAlign=50&fontColor=FFFFFF" alt="Header" />
 </p>
 
-### 📊 Estatísticas
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engenheiro+de+Software;Criatividade+%26+Tecnologia;Construindo+o+Futuro&center=true&vCenter=true&width=1000&height=50&duration=3000&pause=1000&color=9f40ff" alt="Typing Animation" />
+</p>
+
+---
+
+### 🔧 Tecnologias & Ferramentas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaacscardoso&show_icons=true&locale=en&count_private=true" alt="Estatísticas GitHub" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacscardoso" alt="Contribuições em sequência" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacscardoso&layout=compact" alt="Linguagens mais usadas" />
+  <!-- Skill icons from skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,supabase,vercel&perline=6" alt="Skill Icons" />
+  
+  <!-- Custom badges for technologies not in skillicons -->
+  <img src="https://img.shields.io/badge/Filament-E95793?style=flat&logoColor=white" alt="Filament Badge" />
+  <img src="https://img.shields.io/badge/ChatGPT%20%2F%20OpenAI-10A37F?style=flat&logo=openai&logoColor=white" alt="ChatGPT/OpenAI Badge" />
 </div>
 
 ---
 
-### 🗂 Projetos em destaque
+### 📊 Estatísticas e Atividade
 
-- **Nome do Projeto 1** – breve descrição ou objetivo do projeto [link para o repositório].
-- **Nome do Projeto 2** – outro projeto interessante [link para o repositório].
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacscardoso&show_icons=true&locale=en&count_private=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacscardoso&theme=default" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacscardoso&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacscardoso&custom_title=Atividade%20Recente&bg_color=ffffff&color=9f40ff&line=6e40c9&point=9f40ff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
-<!--
-Sinta-se à vontade para adicionar mais seções como artigos, certificados ou hobbies.
--->
+---
+
+<!-- Decorative Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f40ff,100:6e40c9&height=100&section=footer" alt="Footer" />
+</p>
